@@ -2,7 +2,7 @@
 title: FOnderie Oz
 date: 2019-07-16T19:17:43.000+00:00
 type: blog
-hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero: "/images/vincent-burkhead-LhlxYMfnTF0-unsplash.jpg"
 author: Allen Ginsberg
 
 ---
@@ -18,7 +18,9 @@ Look at the Sunflower, he said, there was a dead gray shadow against the sky, bi
 
 \--I rushed up enchanted--it was my first sunflower, memories of Blake--my visions--Harlem
 
-# "the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye"
+<iframe
+
+# **"the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye"**
 
 and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past--
 
